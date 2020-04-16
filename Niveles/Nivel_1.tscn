@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=8 format=2]
 
 [ext_resource path="res://Recursos/Piso.tres" type="TileSet" id=1]
 [ext_resource path="res://Recursos/Paredes.tres" type="TileSet" id=2]
@@ -6,6 +6,7 @@
 [ext_resource path="res://Recursos/ObjetosYSort/Barriles_Este.tscn" type="PackedScene" id=4]
 [ext_resource path="res://Recursos/ObjetosYSort/Pared_Piedra_Oeste.tscn" type="PackedScene" id=5]
 [ext_resource path="res://Recursos/ObjetosYSort/Pared_Piedra_Norte.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Personajes/Jugador/Personaje.tscn" type="PackedScene" id=7]
 
 [node name="Nivel" type="Node2D"]
 
@@ -109,3 +110,5 @@ position = Vector2( 4225.64, 689.123 )
 
 [node name="Barriles_Este3" parent="YSort/Muebles" instance=ExtResource( 4 )]
 position = Vector2( 3889.35, 885.975 )
+
+[node name="Jugador" parent="YSort" instance=ExtResource( 7 )]
