@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/character_grey.png-44b0827194f2b4ff5c2095fe978502d0.stex"
+path="res://.import/tileset grass and trees 2.png-1ee99c1a1edaf87c3e683e404a8f6e66.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://pawns copy/sprites/character_grey.png"
-dest_files=[ "res://.import/character_grey.png-44b0827194f2b4ff5c2095fe978502d0.stex" ]
+source_file="res://external resources/tileset grass and trees 2.png"
+dest_files=[ "res://.import/tileset grass and trees 2.png-1ee99c1a1edaf87c3e683e404a8f6e66.stex" ]
 
 [params]
 

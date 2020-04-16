@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/star.png-4f164f82cf41ace82182660f1be8e68d.stex"
+path="res://.import/star.png-205938cb6817acb4a47efc6f04f9de29.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://pawns/sprites/star.png"
-dest_files=[ "res://.import/star.png-4f164f82cf41ace82182660f1be8e68d.stex" ]
+source_file="res://pawns copy/sprites/star.png"
+dest_files=[ "res://.import/star.png-205938cb6817acb4a47efc6f04f9de29.stex" ]
 
 [params]
 
